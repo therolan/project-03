@@ -1935,7 +1935,7 @@ textarea {
 .post__toc ul {
   counter-reset: item;
   list-style: decimal;
-  margin: calc(0.5rem + 0.25vw) 0 calc(1.5rem + 0.25vw) 1rem;
+  /* margin: calc(0.5rem + 0.25vw) 0 calc(1.5rem + 0.25vw) 1rem; */
 }
 .post__toc ul li {
   counter-increment: item;
