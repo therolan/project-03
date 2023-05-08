@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "SobatPetani",
+    "description": "",
+    "home_page_url": "https://m.obatalami.njg.engineering.virginia.edu",
+    "feed_url": "https://m.obatalami.njg.engineering.virginia.edu/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "admin"
+    },
+    "items": [
+        {
+            "id": "https://m.obatalami.njg.engineering.virginia.edu/pupuk-phonska-segala-hal-yang-perlu-kamu-tahu.html",
+            "url": "https://m.obatalami.njg.engineering.virginia.edu/pupuk-phonska-segala-hal-yang-perlu-kamu-tahu.html",
+            "title": "Pupuk Phonska: Segala Hal yang Perlu Kamu Tahu",
+            "summary": "Apakah kamu tahu apa itu pupuk Phonska? Pupuk ini merupakan salah satu jenis pupuk yang populer digunakan di Indonesia untuk&hellip;",
+            "author": {
+                "name": "admin"
+            },
+            "tags": [
+                   "Agrikultur"
+            ],
+            "date_published": "2023-05-08T16:09:44+07:00",
+            "date_modified": "2023-05-08T16:09:44+07:00"
+        }
+    ]
+}
